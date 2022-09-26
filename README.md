@@ -11,7 +11,7 @@
 - CSS
 - JavaScript
 - Java
-- NodeJs
+- RPA (uiPath) 
 
 ### - 👯 I’m looking to collaborate on ...
 Loading...
